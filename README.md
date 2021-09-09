@@ -30,5 +30,6 @@ Next, I wanted to match some of the pink tones in the image header, so I chaned 
 ## Summary
 The final dashboard includes the three charts created with the belly button bacterial sample data customized with bootstrap components. The final page was also deployed to github pages.
 
-<img width="625" alt="Screen Shot 2021-09-09 at 10 27 17 AM" src="https://user-images.githubusercontent.com/85946042/132718699-92321ced-b937-4825-ba64-2bc116626903.png">
+<img width="588" alt="Screen Shot 2021-09-09 at 11 01 29 AM" src="https://user-images.githubusercontent.com/85946042/132721169-f1ea2aff-9b80-473f-982b-4e82c65bbf35.png">
+
 
